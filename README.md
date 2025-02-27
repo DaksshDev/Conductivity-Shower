@@ -50,8 +50,9 @@ A **modern** and **open-source** conductivity tester powered by **Arduino Uno** 
 - Save sample values for reference!
 
 ## Showcase 🚀
-https://github.com/DaksshDev/Conductivity-Shower/blob/main/showcase/1.png
-https://github.com/DaksshDev/Conductivity-Shower/blob/main/showcase/2.png
+![1](https://github.com/user-attachments/assets/71fdad72-1bc5-4fa0-b01c-b0319e961604)
+![2](https://github.com/user-attachments/assets/5285d7cf-6ca5-4d45-9e24-55b3c018da66)
+
 
 ## License 📜
 
