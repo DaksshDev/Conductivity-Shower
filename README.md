@@ -49,6 +49,10 @@ A **modern** and **open-source** conductivity tester powered by **Arduino Uno** 
 - Observe LED indicators & **live visualization on PC**.
 - Save sample values for reference!
 
+## Showcase 🚀
+https://github.com/DaksshDev/Conductivity-Shower/blob/main/showcase/1.png
+https://github.com/DaksshDev/Conductivity-Shower/blob/main/showcase/2.png
+
 ## License 📜
 
 MIT License © 2025 **Dakssh Bhambre**
