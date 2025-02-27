@@ -27,6 +27,16 @@ A **modern** and **open-source** conductivity tester powered by **Arduino Uno** 
 3. **+ & - Conductivity Wires**
 4. **12V Power Supply (PC or Power Bank)**
 
+ ## 🛠 Wiring Setup
+| Component | Arduino Pin |
+|-----------|------------|
+| Positive Probe | 5V |
+| Negative Probe (via resistor) | A0 (Analog Pin) |
+| LED 1 (Low Conductivity) | D3 |
+| LED 2 (High Conductivity) | D4 |
+
+⚠️ **IMPORTANT:** Use **330Ω or 220Ω resistors** in series with the LEDs to avoid burning them out!
+
 ### **Software**
 1. Install **[Arduino IDE](https://www.arduino.cc/en/software)**.
 2. Install **[Processing IDE](https://processing.org/download/)**.
